@@ -21,5 +21,5 @@ Para o reconhecimento dos personagens, foi construída uma base de 12 imagens po
 * **Classificador leve**: KNN, para mapear embeddings em identidades de personagens.
 * **Data augmentation**: aumento de base para robustez.
 
-
+<img src="https://github.com/monicaneli/Reconhecimento-Facial/blob/779ed3331a7a25a6278834ad7d2439e29601dbea/TBBT%20Resultado.png" />
 
